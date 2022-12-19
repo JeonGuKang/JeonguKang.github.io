@@ -1,5 +1,11 @@
 # Architecture
 
+
+[Untitled](/../../assets/img/Architecture%20a79377effdb54f95afb8e7aedab74783/Untitled.png)
+ 
+[Untitled1](/../../assets/img/Architecture%20a79377effdb54f95afb8e7aedab74783/Untitled1.png)
+
+
 [https://github.com/developersancho/Rorty.Flutter](https://github.com/developersancho/Rorty.Flutter)
 
 # ****Tech Stacks****
