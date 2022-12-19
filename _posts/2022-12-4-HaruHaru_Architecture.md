@@ -1,9 +1,9 @@
 # Architecture
 
 
-[Untitled](/assets/img/Untitled.png)
+![Untitled](/assets/img/Untitled.png)
  
-[Untitled1](/assets/img/Untitled1.png)
+![Untitled1](/assets/img/Untitled1.png)
 
 
 [https://github.com/developersancho/Rorty.Flutter](https://github.com/developersancho/Rorty.Flutter)
