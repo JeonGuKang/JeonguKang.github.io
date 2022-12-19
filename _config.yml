@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
-title                    : "SoyCrab"
+locale                   : "en-US"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JeonGuKang"
+name                     : "SweetCode"
 description              : "An amazing website."
-url                      : "https://JeonGukang.github.io"
+url                      : "https://jeongukang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JeonGuKang/JeonguKang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
