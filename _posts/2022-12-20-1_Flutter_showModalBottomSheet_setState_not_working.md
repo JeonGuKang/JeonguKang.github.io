@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Flutter showModalBottomSheet setState not working"
+search: true 
+---
+
 # Flutter `showModalBottomSheet` setState not working
 
 `setState()`는 `StatefulWidget` 에서 특정 오브젝트의 상태(값)를 변경하기 위해 사용하는 메소드이다.
