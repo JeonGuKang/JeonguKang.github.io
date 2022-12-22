@@ -1,12 +1,18 @@
+---
+layout: single
+title:  "Flutter 하루하루 Tech Spec"
+search: true 
+---
+
 # Architecture
 
 
 ![Untitled](/assets/img/Untitled.png)
+
+
+
+![Untitled](/assets/img/blog/2022-12-4-1_image_1.png)
  
-![Untitled1](/assets/img/Untitled1.png)
-
-
-[https://github.com/developersancho/Rorty.Flutter](https://github.com/developersancho/Rorty.Flutter)
 
 # ****Tech Stacks****
 
