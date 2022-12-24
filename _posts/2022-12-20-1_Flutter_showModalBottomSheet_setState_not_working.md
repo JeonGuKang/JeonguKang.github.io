@@ -44,6 +44,9 @@ setState(() {
 
 출처 :  [https://stackoverflow.com/a/56972160](https://stackoverflow.com/a/56972160)
 
+
+  
 해결방법은 간단하다 StatefulBuilder 를 추가하고 
+
 
 StateSetter setModalState 를 이용하여 상태 변경을 호출해주면 정상적으로 UI 변경이 된다.
